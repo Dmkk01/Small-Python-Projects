@@ -12,7 +12,7 @@ for wifi in all_wifi:
     try:
         # Accessing the wifi information
         password = subprocess.check_output(['netsh', 'wlan', 'show', 'profile', wifi, 'key=clear']).decode('utf-8').split('\n')
-        # Obtaning the wifi
+        # Obtaining the wifi
         password = [line.split(':')[1][1:-1] for line in password if 'Key Content' in line]
         # Printing out the results
         print('{:^25} | {:^25}'.format(wifi, password[0]))
