@@ -1,9 +1,3 @@
-# Y1 AUTUMN 2020
-# Basic Course in Programming Y1
-# Author: Anni Niskanen
-# A test program for Exercise 9.5
-
-
 from player_character import PlayerCharacter
 import random
 
