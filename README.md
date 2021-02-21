@@ -5,3 +5,7 @@ A simple script that automates the process of using the command prompt to extrac
 
 ## Short Text RPG
 A small text-based RPG game made for one of my Python courses at school. There are two testing programs player_character_testing_program.py (Testing the player_character.py class) and roleplaying_game_program.py (A short story based on the player_character.py)
+
+## Caesar Cipher
+Simple user-defined program for creating, encoding and decoding shift substitutions, also known as Caesar Ciphers.
+
