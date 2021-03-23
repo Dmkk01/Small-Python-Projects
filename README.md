@@ -9,3 +9,5 @@ A small text-based RPG game made for one of my Python courses at school. There a
 ## Caesar Cipher
 Simple user-defined program for creating, encoding and decoding shift substitutions, also known as Caesar Ciphers.
 
+## Linked List
+A basic implementation of linked lists with classes and unitesting in Python
