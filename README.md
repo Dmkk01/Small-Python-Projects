@@ -14,3 +14,6 @@ A basic implementation of linked lists with classes and unitesting in Python
 
 ## RobotWorld
 A simple GUI application/game with robots made in PyQt5
+
+## Game Of Life
+A simple representation of a popular game of Life, or also known as Conway's Game of Life. Implemented within matplotlib library.
