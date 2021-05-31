@@ -20,3 +20,6 @@ A simple representation of a popular game of Life, or also known as Conway's Gam
 
 ## Image Grid
 A program that draws an image in the console based on the coordinates given in a text file
+
+## Covid Statistics
+Makes a simple data analysis on .tsv files with some missing entries
